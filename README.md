@@ -3,7 +3,7 @@
 
 My name is Anh-Thu - a Digital Transformation Consultant.
 
-My expertise mainly focuses on Economics X Data with diverse experience in Economics x Technology for various domains such as investment, banking and consulting.
+My expertise mainly focuses on Economics X Data with diverse experience in various domains such as investment, banking and economic development.
 I devote the next phase of her career to promote true digital integration in the entire organization workflow, which is crucial to make better business model with science-led approaches and data-based decisions.
 
 

@@ -7,6 +7,7 @@ My expertise mainly focuses on the intersection of Economics and Data, and I hav
 
 
 Programming: Python / Stata / SQL
+
 Tool: UiPath, ABBYY OCR
 
 
